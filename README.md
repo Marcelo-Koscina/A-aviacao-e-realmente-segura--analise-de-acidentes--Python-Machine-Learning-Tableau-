@@ -19,4 +19,4 @@ https://www.icao.int/Aviation-API-Data-Service/Pages/default.aspx
 
 * A apresentação desta análise de dados está disponível no Tableau Public através do link abaixo:
 
-https://public.tableau.com/app/profile/marcelo5344/viz/Is_Aviation_Safe_Air_Accident_Safety_analysis_and_visualization/ProjectStory?publish=yes
+https://public.tableau.com/app/profile/marcelo5344/viz/AaviaorealmenteseguraIs_Aviation_Safeversoemportugues/Oprojetoemhistoria___?publish=yes
