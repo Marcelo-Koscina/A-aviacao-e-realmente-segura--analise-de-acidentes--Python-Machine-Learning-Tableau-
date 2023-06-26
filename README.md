@@ -1,8 +1,8 @@
-# A aviação é realmente segura? Uma análise de acidentes aéreos e seguranca de voo
+# A aviação é realmente segura? Uma análise de acidentes aéreos e seguranca de voo (Tableau)
  
  Tradução em português do projeto: 
  
-        "Is_aviation_safe? - Air Accidents and Safety analysis and visualization"
+        "Is_aviation_safe? - Air Accidents and Safety analysis and  Tableau visualization"
  
 * O que contém: Uma análise de banco de dados global de companhias aéreas com base em acidentes de aeronaves comerciais extraídos da API da OACI (Organização da Aviação Civil Internacional), nos últimos 15 anos (jan2008-maio2022), juntamente com um modelo classificador de previsão  de aprendizado de máquina (Machine Learning) de acidentes aéreos.
 
