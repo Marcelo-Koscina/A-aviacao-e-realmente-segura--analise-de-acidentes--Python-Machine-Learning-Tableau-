@@ -1,6 +1,6 @@
 # A aviação é realmente segura? Uma análise de acidentes aéreos e seguranca de voo (Tableau) + (Python / Machine Learning)
  
- Portuguese translation of the project:
+ Portuguese translation of:
  
         "Is_aviation_safe? - Air Accidents data visualization (Tableau) and Prediction (Python - Machine Learning)"
  
